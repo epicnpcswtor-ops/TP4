@@ -1,7 +1,7 @@
 import numpy
 import matplotlib
 import matplotlib.pyplot as plt
-
+gggg
 class Noeud :
 
     def __init__ (self, val, list_enfants) :
